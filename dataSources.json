@@ -1,0 +1,33 @@
+{
+  "updateDetails": [
+    {
+      "name": "API",
+      "newValue": "http://10.0.5.41:8002/analise-critica/projetos/"
+    },
+    
+    {
+      "name": "APIExtratoProjeto",
+      "newValue": "/extrato-projeto"
+    },
+    
+    {
+      "name": "AuthorizationHeader",
+      "newValue": "homolog"
+    },
+    
+    {
+      "name": "APIExtratoFinanceiro",
+      "newValue": "/extrato-financeiro"
+    },
+    
+    {
+      "name": "DatabaseName",
+      "newValue": "10.0.1.192"
+    },
+    
+    {
+      "name": "PlanilhaURL",
+      "newValue": "https://fpfbr-my.sharepoint.com/personal/marcos_celani_fpf_br/Documents/Alta%20Performance%20Delorean/Wex%20Custos%20BI/Dashboard/Projetos_FPFtech_Original.xlsx"
+    }
+  ]
+}
